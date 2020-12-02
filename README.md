@@ -24,5 +24,8 @@ The chatbot accepts text-based inputs from the user and matches it to the most p
 - Doesn't utilize AI to generate "truly intelligent" responses (Eg. Unable to discuss topics outside the scope of keywords in `questions.txt`, Unable to understand humour or sarcasm)
 - Only handles pure text (ie. No links, images, emojis etc.)
 
+# Program Features
+
+
 # Resources Used:
 https://github.com/boyter/java-spelling-corrector/blob/master/src/com/boyter/SpellingCorrector/SpellingCorrector.java
